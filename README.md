@@ -12,9 +12,9 @@ Task :
  
 Result of first task : 
 * Xls file :[https://github.com/OzzKoup/Client_WebService/blob/master/src/main/resources/Country%20info.xls]
-* Code : [https://github.com/OzzKoup/new/blob/master/src]
+* Code : [https://github.com/OzzKoup/Client_WebService/blob/master/src]
 
 Result of second task :
-* Schema : [https://github.com/OzzKoup/new/blob/master/src/main/resources/scheme.sql]
-* Queries : [https://github.com/OzzKoup/new/blob/master/src/main/resources/queries.sql]
-* Data : [https://github.com/OzzKoup/new/blob/master/src/main/resources/data.sql]
+* Schema : [https://github.com/OzzKoup/Client_WebService/blob/master/src/main/resources/scheme.sql]
+* Queries : [https://github.com/OzzKoup/Client_WebService/blob/master/src/main/resources/queries.sql]
+* Data : [https://github.com/OzzKoup/Client_WebService/blob/master/src/main/resources/data.sql]
