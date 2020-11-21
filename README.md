@@ -11,7 +11,7 @@ Task :
 Сделать запрос, который выведет сотрудников старше 50 лет (вычислять по дате рождения сотрудника) у которых зарплата за какой либо месяц прошлого года была меньше 5.000
  
 Result of first task : 
-* Xls file :[https://github.com/OzzKoup/new/blob/master/src/main/resources/Country%20info.xls]
+* Xls file :[https://github.com/OzzKoup/Client_WebService/blob/master/src/main/resources/Country%20info.xls]
 * Code : [https://github.com/OzzKoup/new/blob/master/src]
 
 Result of second task :
