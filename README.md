@@ -13,5 +13,6 @@ Task :
 Result of first task : [Country info.xls](#https://github.com/OzzKoup/new/blob/master/src/main/resources/Country%20info.xls)
 
 Result of second task :
-Schema : [https://github.com/OzzKoup/new/blob/master/src/main/resources/schema.sql]
-Queries : [https://github.com/OzzKoup/new/blob/master/src/main/resources/query.sql]
+* Schema : [https://github.com/OzzKoup/new/blob/master/src/main/resources/scheme.sql]
+* Queries : [https://github.com/OzzKoup/new/blob/master/src/main/resources/queries.sql]
+* Data : [https://github.com/OzzKoup/new/blob/master/src/main/resources/data.sql]
